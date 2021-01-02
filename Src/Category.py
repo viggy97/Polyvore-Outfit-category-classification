@@ -141,4 +141,4 @@ if __name__ == '__main__':
                 dataset_size=dataset_size)
     text_gen()
 
-    print('DONE')
+    print('DONE!')
